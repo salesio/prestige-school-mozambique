@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./rolldown-runtime-C60lm6uB.js";import{i as n}from"./framework-D_rUT4EX.js";var r=e({LanguageMemory:()=>a}),i=t(n(),1);function a({locale:e}){return(0,i.useEffect)(()=>{document.cookie=`prestige_locale=${e}; path=/; max-age=31536000; samesite=lax`,document.documentElement.lang=e},[e]),null}export{r as t};
